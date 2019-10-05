@@ -1,0 +1,8 @@
+# Automation for Mfour by Cameron Salcedo
+
+Automation will test around logging in, creating surveys and their questions.
+
+## How to run
+
+Run the following command 'pytest -v -s -m thistest'
+This command will run all scenarios marked by '@thistest'
